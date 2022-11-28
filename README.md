@@ -17,14 +17,14 @@ Out of these 5 columns the column which has missing values is location.So the ne
 
 Column      Data Type  
 
-Id             int 
+Id         >     Int 
 
-keyword       object
+keyword    >    object
 
-location      object
+location   >   object
 
-text          object
+text       >   object
 
-target         int
+target     >     Int
  
 After the above cleaning and analysis the number of rows and columns are 7952 and Then next step is to remove any duplicate data from above analysed data,After doing that the number of rows and columns are exactly same which is 7952 and Therefore the number of duplicates are exactly zero.
