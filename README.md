@@ -15,7 +15,7 @@ target
 
 Out of these 5 columns the column which has missing values is location.So the next step in the analysis is to find different values in location column and their counts.  As we got that location is nominal type ,we find the unique value count which is 4505.It has 4505 unique values in it.By calculating the mode which is 96,It is way small when compared to the records.So, It is best to remove these records.After removing these missing records the missing values in each column is 0.The column and their data types are
 
-Column      Dtype  
+Column      Data Type  
 
 Id          int 
 
